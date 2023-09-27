@@ -1,4 +1,4 @@
-### Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px">
+ <b>Hey<b/> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px">
 
 <details>
   <summary>About me</summary>
