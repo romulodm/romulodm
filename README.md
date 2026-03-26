@@ -3,19 +3,19 @@
 <details>
   <summary>About me</summary>
   <br>
-  <p>I'm Romulo, passionate about technology since forever and currently a student in the area.</p>
+  <p>I'm Romulo, a software developer with 5 years of experience and a lifelong learner.</p>
   
 - :telescope: I am currently working on personal projects to improve my skills
-- :man_student:   Information Systems Student at [FURG](https://www.furg.br/) - 2022/01
+- :man_student: Graduated in Information Systems from [FURG](https://www.furg.br/) - 2022/2026
+- :books: Master's student in Computer Engineering at [FURG](https://www.furg.br/) - 2026/01
 - :speech_balloon: Ask me anything [here](https://github.com/romulodm/romulodm/issues/new) or [email](mailto:romulotg12@gmail.com) me
 </details>
 
 <details>
   <summary>Stats</summary>
   <br>
-  <div>
-    <img height="200em" width="450em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=romulodm&theme=dark&hide_border=false&include_all_commits=false&count_private=false"> 
-    <img height="200em" width="322.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulodm&theme=dark&hide_border=false&include_all_commits=true&layout=compact">
-
+  <div align="center">
+    <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api?username=romulodm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide=issues" alt="Estatísticas do GitHub" />
+    <img align="top" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romulodm&theme=dark&hide_border=false&include_all_commits=true&layout=compact" alt="Linguagens mais usadas" />
   </div>
 </details>
