@@ -20,12 +20,12 @@ I'm Romulo, a software developer with 5 years of experience and a lifelong learn
   <div align="left">
     <div style="display: flex; gap: 16px; justify-content: center; align-items: flex-start;">
       <img
-        width="48%"
+        width="55%"
         src="https://github-readme-stats-sigma-five.vercel.app/api?username=romulodm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide=issues"
         alt="GitHub Stats"
       />
       <img
-        width="34%"
+        width="39%"
         src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=romulodm&theme=dark&hide_border=false&include_all_commits=true&layout=compact"
         alt="Most Used Languages"
       />
